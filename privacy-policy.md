@@ -1,9 +1,9 @@
-# Privacy Policy — StyleMateAI
+# Privacy Policy — GlowdrobeAI
 
 **Last updated:** 07-02-2026 
 **Effective date:** 07-02-2026
 
-StyleMateAI ("we," "our," or "us") operates the StyleMateAI mobile application (the "App"). This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our App, in compliance with:
+GlowdrobeAI ("we," "our," or "us") operates the GlowdrobeAI mobile application (the "App"). This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our App, in compliance with:
 
 - **European Union:** Regulation (EU) 2016/679 (General Data Protection Regulation — GDPR)
 - **United States:** California Consumer Privacy Act (CCPA) and other applicable state laws
