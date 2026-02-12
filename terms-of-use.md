@@ -1,9 +1,9 @@
-# Terms of Use — StyleMateAI
+# Terms of Use — GlowdrobeAI
 
 **Last updated:** 07-02-2026
 **Effective date:** 07-02-2026
 
-Welcome to StyleMateAI ("we," "our," or "us"). These Terms of Use ("Terms") govern your access to and use of the StyleMateAI mobile application (the "App") and related services. By downloading, installing, or using the App, you agree to be bound by these Terms and our Privacy Policy. If you do not agree, do not use the App.
+Welcome to GlowdrobeAI ("we," "our," or "us"). These Terms of Use ("Terms") govern your access to and use of the GlowdrobeAI mobile application (the "App") and related services. By downloading, installing, or using the App, you agree to be bound by these Terms and our Privacy Policy. If you do not agree, do not use the App.
 
 ---
 
