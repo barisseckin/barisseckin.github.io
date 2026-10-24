@@ -28,7 +28,7 @@ This Policy is intended to meet the requirements of:
 The data controller responsible for your personal data is:
 
 **Barış Seçkin**  
-Cornet Suites Apartmanı, Balatçık Mahallesi 8914 Sokak No:68 Kat:4 Daire:21, Çiğli / İzmir, Türkiye  
+15 Temmuz Mahallesi, Üniversite Bulvarı No:320, 27560 Şehitkamil / Gaziantep, Türkiye  
 Email: **barisseckin0@gmail.com**
 
 You can contact us at this address for any privacy request, including requests under the KVKK, GDPR and CCPA.
@@ -219,7 +219,7 @@ Under Article 11 of the KVKK, you have the right to:
 - object to a result against you arising exclusively from automated analysis of your data;
 - claim compensation for damage caused by unlawful processing.
 
-You can send your request to barisseckin0@gmail.com or in writing to Cornet Suites Apartmanı, Balatçık Mahallesi 8914 Sokak No:68 Kat:4 Daire:21, Çiğli / İzmir, Türkiye. We will respond free of charge within **30 days** at the latest. If your request is rejected or you find our response insufficient, you may lodge a complaint with the Personal Data Protection Board (*Kişisel Verileri Koruma Kurulu*).
+You can send your request to barisseckin0@gmail.com or in writing to 15 Temmuz Mahallesi, Üniversite Bulvarı No:320, 27560 Şehitkamil / Gaziantep, Türkiye. We will respond free of charge within **30 days** at the latest. If your request is rejected or you find our response insufficient, you may lodge a complaint with the Personal Data Protection Board (*Kişisel Verileri Koruma Kurulu*).
 
 ### 11.2 Rights under the GDPR (EEA)
 
@@ -256,4 +256,4 @@ We may update this Privacy Policy from time to time. We will notify you of mater
 ## 15. Contact Us
 
 - **Email:** barisseckin0@gmail.com
-- **Postal address:** Barış Seçkin, Cornet Suites Apartmanı, Balatçık Mahallesi 8914 Sokak No:68 Kat:4 Daire:21, Çiğli / İzmir, Türkiye
+- **Postal address:** Barış Seçkin, 15 Temmuz Mahallesi, Üniversite Bulvarı No:320, 27560 Şehitkamil / Gaziantep, Türkiye

@@ -196,7 +196,7 @@ If you downloaded the App from the Apple App Store, the following also applies:
 - **Legal compliance:** You represent and warrant that (i) you are not located in a country that is subject to a U.S. Government embargo or that has been designated by the U.S. Government as a "terrorist supporting" country, and (ii) you are not listed on any U.S. Government list of prohibited or restricted parties.
 - **Third-party terms:** You must comply with applicable third-party terms (e.g., your wireless data service agreement) when using the App.
 - **Third-party beneficiary:** Apple and Apple's subsidiaries are third-party beneficiaries of these Terms. Once you accept these Terms, Apple has the right (and will be deemed to have accepted the right) to enforce them against you as a third-party beneficiary.
-- **Developer contact:** Questions, complaints or claims about the App should be sent to Barış Seçkin, Cornet Suites Apartmanı, Balatçık Mahallesi 8914 Sokak No:68 Kat:4 Daire:21, Çiğli / İzmir, Türkiye, barisseckin0@gmail.com.
+- **Developer contact:** Questions, complaints or claims about the App should be sent to Barış Seçkin, 15 Temmuz Mahallesi, Üniversite Bulvarı No:320, 27560 Şehitkamil / Gaziantep, Türkiye, barisseckin0@gmail.com.
 
 ---
 
@@ -219,4 +219,4 @@ We may update these Terms from time to time. We will notify you of material chan
 ## 18. Contact Us
 
 - **Email:** barisseckin0@gmail.com
-- **Postal address:** Barış Seçkin, Cornet Suites Apartmanı, Balatçık Mahallesi 8914 Sokak No:68 Kat:4 Daire:21, Çiğli / İzmir, Türkiye
+- **Postal address:** Barış Seçkin, 15 Temmuz Mahallesi, Üniversite Bulvarı No:320, 27560 Şehitkamil / Gaziantep, Türkiye

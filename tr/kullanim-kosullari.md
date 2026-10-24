@@ -196,7 +196,7 @@ Uygulamayı Apple App Store'dan indirdiyseniz aşağıdakiler de geçerlidir:
 - **Mevzuata uyum:** (i) ABD Hükümeti ambargosuna tabi olan veya ABD Hükümeti tarafından "terörü destekleyen" ülke olarak belirlenen bir ülkede bulunmadığınızı ve (ii) ABD Hükümeti'nin yasaklı veya kısıtlı taraflar listelerinin hiçbirinde yer almadığınızı beyan ve taahhüt edersiniz.
 - **Üçüncü taraf koşulları:** Uygulamayı kullanırken geçerli üçüncü taraf koşullarına (ör. kablosuz veri hizmeti sözleşmenize) uymanız gerekir.
 - **Üçüncü taraf lehtar:** Apple ve Apple'ın bağlı şirketleri bu Koşulların üçüncü taraf lehtarlarıdır. Bu Koşulları kabul etmenizle birlikte Apple, bu Koşulları üçüncü taraf lehtar sıfatıyla size karşı uygulama hakkına sahip olur (ve bu hakkı kabul etmiş sayılır).
-- **Geliştirici iletişim bilgileri:** Uygulamaya ilişkin soru, şikâyet veya talepler Barış Seçkin, Cornet Suites Apartmanı, Balatçık Mahallesi 8914 Sokak No:68 Kat:4 Daire:21, Çiğli / İzmir, Türkiye, barisseckin0@gmail.com adresine iletilmelidir.
+- **Geliştirici iletişim bilgileri:** Uygulamaya ilişkin soru, şikâyet veya talepler Barış Seçkin, 15 Temmuz Mahallesi, Üniversite Bulvarı No:320, 27560 Şehitkamil / Gaziantep, Türkiye, barisseckin0@gmail.com adresine iletilmelidir.
 
 ---
 
@@ -219,4 +219,4 @@ Bu Koşulları zaman zaman güncelleyebiliriz. Önemli değişiklikleri Uygulama
 ## 18. Bize Ulaşın
 
 - **E-posta:** barisseckin0@gmail.com
-- **Posta adresi:** Barış Seçkin, Cornet Suites Apartmanı, Balatçık Mahallesi 8914 Sokak No:68 Kat:4 Daire:21, Çiğli / İzmir, Türkiye
+- **Posta adresi:** Barış Seçkin, 15 Temmuz Mahallesi, Üniversite Bulvarı No:320, 27560 Şehitkamil / Gaziantep, Türkiye
