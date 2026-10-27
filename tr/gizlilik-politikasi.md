@@ -7,7 +7,7 @@ permalink: /tr/gizlilik-politikasi
 
 # Gizlilik Politikası — Glowdrobe AI
 
-**Son güncelleme:** 2026-10-23  
+**Son güncelleme:** 2026-10-27  
 **Yürürlük tarihi:** 2026-10-23
 
 Bu Gizlilik Politikası, iOS için Glowdrobe AI mobil uygulamasını ("Uygulama") kullandığınızda kişisel verilerin nasıl toplandığını, kullanıldığını, paylaşıldığını ve korunduğunu açıklar. Uygulama, Türkiye Cumhuriyeti'nde faaliyet gösteren bireysel geliştirici (şahıs işletmesi) Barış Seçkin ("biz", "bize", "bizim") tarafından işletilmektedir.
@@ -18,6 +18,7 @@ Bu Politika aşağıdaki düzenlemelerin gereklerini karşılamayı amaçlar:
 - **Avrupa Ekonomik Alanı (AEA):** (AB) 2016/679 sayılı Genel Veri Koruma Tüzüğü ("GDPR").
 - **Kaliforniya, ABD:** Kaliforniya Tüketici Gizliliği Yasası ("CCPA"); Bölüm 11.3'te kısaca ele alınmıştır.
 - **Apple App Store:** App Store İnceleme Kuralları ve gizlilik beyanı gereklilikleri.
+- **Google Play:** Google Play Geliştirici Programı Politikaları (Kullanıcı Verileri politikası ve Veri güvenliği gereklilikleri dahil).
 
 **Kısaca:** Yalnızca Uygulamayı çalıştırmak için ihtiyaç duyduğumuz verileri topluyoruz. Reklam SDK'ları kullanmıyor, sizi diğer uygulama veya web sitelerinde takip etmiyor ve kişisel verilerinizi satmıyoruz.
 
@@ -69,8 +70,8 @@ KVKK, GDPR ve CCPA kapsamındakiler dahil tüm gizlilik talepleriniz için bu ad
 
 ### 2.7 Satın alma kayıtları
 
-- Apple işlem kimlikleri ile aboneliğinizin ve uygulama içi satın alımlarınızın durumu.
-- **Ödemeler Apple tarafından işlenir.** Kart veya ödeme bilgilerinizi hiçbir zaman görmez ve saklamayız.
+- Apple işlem kimlikleri veya Google Play satın alma jetonları ve sipariş numaraları ile aboneliğinizin ve uygulama içi satın alımlarınızın durumu.
+- **Ödemeler Apple (App Store) veya Google (Google Play) tarafından işlenir.** Kart veya ödeme bilgilerinizi hiçbir zaman görmez ve saklamayız.
 
 ### 2.8 Teknik kayıtlar
 
@@ -160,7 +161,7 @@ Kişisel verileri yalnızca Uygulamayı işletmemize yardımcı olan hizmet sağ
 | NanoBanana | Sanal deneme görseli üretimi | Selfie/vücut fotoğrafları ve kıyafet görselleri |
 | Google Firebase | Anlık bildirimler | Cihaz bildirim jetonu, bildirim içeriği |
 | Google ve Apple | Giriş | Giriş tanımlayıcıları, ad ve e-posta (paylaşmayı seçtiğiniz ölçüde) |
-| Apple | Uygulama içi satın alımlar ve abonelikler | Satın alma ve abonelik kayıtları |
+| Apple ve Google | Uygulama içi satın alımlar ve abonelikler (App Store, Google Play) | Satın alma ve abonelik kayıtları |
 | MailerSend | İşlemsel e-posta | E-posta adresi, ad, e-posta içeriği |
 | Open-Meteo | Hava durumu verileri | Yalnızca yaklaşık koordinatlar |
 | SerpAPI | Alışveriş/ürün arama | Yalnızca arama sorguları (kişisel veri içermez) |
@@ -200,7 +201,8 @@ Bu güvenceler hakkında barisseckin0@gmail.com adresinden daha fazla bilgi iste
 - Hesabınızı Uygulamada **Ayarlar → Hesabı Sil** yolunu izleyerek silebilirsiniz.
 - Silme talebinizin ardından **14 günlük bir bekleme süresi** başlar. Bu sürenin sonunda, kanunen saklanması gereken veriler (ör. satın alma ve vergi kayıtları) hariç olmak üzere hesabınız ve kişisel verileriniz kalıcı olarak silinir.
 - Apple ile giriş yaptıysanız, hesabınız silindiğinde Apple ile Giriş Yap jetonlarınız iptal edilir.
-- Hesabınızı silmek, aktif bir App Store aboneliğini iptal etmez. Lütfen aboneliğinizi App Store hesap ayarlarınızdan iptal edin.
+- Silme talebini Uygulama olmadan, herhangi bir tarayıcıdan da iletebilirsiniz: [Hesabını sil](/tr/hesap-silme).
+- Hesabınızı silmek, aktif bir App Store veya Google Play aboneliğini iptal etmez. Lütfen aboneliğinizi App Store hesap ayarlarınızdan ya da Google Play → Ödemeler ve abonelikler bölümünden iptal edin.
 
 ---
 

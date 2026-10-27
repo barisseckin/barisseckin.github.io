@@ -7,7 +7,7 @@ permalink: /privacy-policy
 
 # Privacy Policy — Glowdrobe AI
 
-**Last updated:** 2026-10-23  
+**Last updated:** 2026-10-27  
 **Effective date:** 2026-10-23
 
 This Privacy Policy explains how personal data is collected, used, shared and protected when you use the Glowdrobe AI mobile application for iOS (the "App"). The App is operated by Barış Seçkin, an individual developer (sole proprietor) based in the Republic of Türkiye ("we", "us", "our").
@@ -18,6 +18,7 @@ This Policy is intended to meet the requirements of:
 - **European Economic Area (EEA):** Regulation (EU) 2016/679 (General Data Protection Regulation — "GDPR").
 - **California, USA:** the California Consumer Privacy Act ("CCPA"), briefly addressed in Section 11.3.
 - **Apple App Store:** the App Store Review Guidelines and privacy disclosure requirements.
+- **Google Play:** the Google Play Developer Program Policies, including the User Data policy and Data safety requirements.
 
 **In short:** we collect only what we need to run the App. We do not use advertising SDKs, we do not track you across other apps or websites, and we do not sell your personal data.
 
@@ -69,8 +70,8 @@ You can contact us at this address for any privacy request, including requests u
 
 ### 2.7 Purchase records
 
-- Apple transaction identifiers and the status of your subscription and in-app purchases.
-- **Payments are processed by Apple.** We never see or store your card or payment details.
+- Apple transaction identifiers or Google Play purchase tokens and order IDs, and the status of your subscription and in-app purchases.
+- **Payments are processed by Apple (App Store) or Google (Google Play).** We never see or store your card or payment details.
 
 ### 2.8 Technical logs
 
@@ -160,7 +161,7 @@ We share personal data only with service providers that help us run the App, and
 | NanoBanana | Virtual try-on image generation | Selfies/body photos and clothing images |
 | Google Firebase | Push notifications | Device push token, notification content |
 | Google and Apple | Sign-in | Sign-in identifiers, name and email (as you choose to share) |
-| Apple | In-app purchases and subscriptions | Purchase and subscription records |
+| Apple and Google | In-app purchases and subscriptions (App Store, Google Play) | Purchase and subscription records |
 | MailerSend | Transactional email | Email address, name, email content |
 | Open-Meteo | Weather data | Approximate coordinates only |
 | SerpAPI | Shopping/product search | Search queries only (no personal data) |
@@ -200,7 +201,8 @@ You can ask for more information about these safeguards at barisseckin0@gmail.co
 - You can delete your account in the App at **Settings → Delete Account**.
 - After you request deletion, there is a **14-day grace period**. After this period, your account and personal data are permanently deleted, except where retention is legally required (e.g., purchase and tax records).
 - If you signed in with Apple, your Sign in with Apple tokens are revoked when your account is deleted.
-- Deleting your account does not cancel an active App Store subscription. Please cancel it in your App Store account settings.
+- You can also request deletion without the App, from any browser: see [Delete your account](/delete-account).
+- Deleting your account does not cancel an active App Store or Google Play subscription. Please cancel it in your App Store account settings or in Google Play → Payments & subscriptions.
 
 ---
 
