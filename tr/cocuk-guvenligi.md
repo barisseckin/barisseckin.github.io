@@ -49,4 +49,4 @@ Bir çocuk acil tehlike altındaysa önce yerel acil durum hattını (Türkiye'd
 
 ## 7. İletişim
 
-Çocuk güvenliğiyle ilgili sorular ve bildirimler için belirlenmiş iletişim adresimiz **[baris.seckin@glowdrobe.ai](mailto:baris.seckin@glowdrobe.ai?subject=Child%20safety%20report)**'dur. Lütfen kullanıcı adını ve mümkünse içeriğin nerede göründüğünü belirtin. İstismar içeren görsellerin kopyalarını bize göndermeyin.
+Çocuk güvenliğiyle ilgili sorular ve bildirimler için belirlenmiş iletişim adresimiz **[contact@glowdrobe.ai](mailto:contact@glowdrobe.ai?subject=Child%20safety%20report)**'dur. Lütfen kullanıcı adını ve mümkünse içeriğin nerede göründüğünü belirtin. İstismar içeren görsellerin kopyalarını bize göndermeyin.

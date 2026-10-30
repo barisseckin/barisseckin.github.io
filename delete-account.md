@@ -17,7 +17,7 @@ This page explains how to delete your account in **Glowdrobe AI** (developer: Ba
 
 ## Option 2 — without the app
 
-If you no longer have the app installed, email **[baris.seckin@glowdrobe.ai](mailto:baris.seckin@glowdrobe.ai?subject=Delete%20my%20Glowdrobe%20account)** **from the email address of your Glowdrobe account** with the subject "Delete my Glowdrobe account". If you signed in with Apple and hid your email, include your Apple private-relay address. We confirm the request by email and process it within 7 days.
+If you no longer have the app installed, email **[contact@glowdrobe.ai](mailto:contact@glowdrobe.ai?subject=Delete%20my%20Glowdrobe%20account)** **from the email address of your Glowdrobe account** with the subject "Delete my Glowdrobe account". If you signed in with Apple and hid your email, include your Apple private-relay address. We confirm the request by email and process it within 7 days.
 
 ## What is deleted
 

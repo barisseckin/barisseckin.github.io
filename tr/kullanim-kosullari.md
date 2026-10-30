@@ -27,7 +27,7 @@ Hesap oluşturarak veya Uygulamayı kullanarak bu Koşulları kabul etmiş ve Gi
 ## 2. Hesabınız
 
 - E-posta ile hesap oluşturabilir veya Google ya da Apple ile giriş yapabilirsiniz. Doğru bilgi vermeyi ve bu bilgileri güncel tutmayı kabul edersiniz.
-- Giriş bilgilerinizi güvende tutmaktan ve hesabınız altında gerçekleşen tüm faaliyetlerden siz sorumlusunuz. Yetkisiz kullanımdan şüphelenirseniz derhal baris.seckin@glowdrobe.ai adresinden bize bildirin.
+- Giriş bilgilerinizi güvende tutmaktan ve hesabınız altında gerçekleşen tüm faaliyetlerden siz sorumlusunuz. Yetkisiz kullanımdan şüphelenirseniz derhal contact@glowdrobe.ai adresinden bize bildirin.
 - Hesap oluşturmadan önce, Bölüm 3'teki Topluluk Kuralları dahil bu Koşulları kabul etmeniz gerekir.
 
 ---
@@ -196,7 +196,7 @@ Uygulamayı Apple App Store'dan indirdiyseniz aşağıdakiler de geçerlidir:
 - **Mevzuata uyum:** (i) ABD Hükümeti ambargosuna tabi olan veya ABD Hükümeti tarafından "terörü destekleyen" ülke olarak belirlenen bir ülkede bulunmadığınızı ve (ii) ABD Hükümeti'nin yasaklı veya kısıtlı taraflar listelerinin hiçbirinde yer almadığınızı beyan ve taahhüt edersiniz.
 - **Üçüncü taraf koşulları:** Uygulamayı kullanırken geçerli üçüncü taraf koşullarına (ör. kablosuz veri hizmeti sözleşmenize) uymanız gerekir.
 - **Üçüncü taraf lehtar:** Apple ve Apple'ın bağlı şirketleri bu Koşulların üçüncü taraf lehtarlarıdır. Bu Koşulları kabul etmenizle birlikte Apple, bu Koşulları üçüncü taraf lehtar sıfatıyla size karşı uygulama hakkına sahip olur (ve bu hakkı kabul etmiş sayılır).
-- **Geliştirici iletişim bilgileri:** Uygulamaya ilişkin soru, şikâyet veya talepler Barış Seçkin, 15 Temmuz Mahallesi, Üniversite Bulvarı No:320, 27560 Şehitkamil / Gaziantep, Türkiye, baris.seckin@glowdrobe.ai adresine iletilmelidir.
+- **Geliştirici iletişim bilgileri:** Uygulamaya ilişkin soru, şikâyet veya talepler Barış Seçkin, 15 Temmuz Mahallesi, Üniversite Bulvarı No:320, 27560 Şehitkamil / Gaziantep, Türkiye, contact@glowdrobe.ai adresine iletilmelidir.
 
 ---
 
@@ -218,5 +218,5 @@ Bu Koşulları zaman zaman güncelleyebiliriz. Önemli değişiklikleri Uygulama
 
 ## 18. Bize Ulaşın
 
-- **E-posta:** baris.seckin@glowdrobe.ai
+- **E-posta:** contact@glowdrobe.ai
 - **Posta adresi:** Barış Seçkin, 15 Temmuz Mahallesi, Üniversite Bulvarı No:320, 27560 Şehitkamil / Gaziantep, Türkiye

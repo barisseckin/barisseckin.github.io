@@ -17,7 +17,7 @@ Bu sayfa, **Glowdrobe AI** (geliştirici: Barış Seçkin) hesabını nasıl sil
 
 ## 2. Yol — uygulama olmadan
 
-Uygulama artık yüklü değilse, **Glowdrobe hesabının e-posta adresinden** "Glowdrobe hesabımı sil" konulu bir e-postayı **[baris.seckin@glowdrobe.ai](mailto:baris.seckin@glowdrobe.ai?subject=Glowdrobe%20hesab%C4%B1m%C4%B1%20sil)** adresine gönder. Apple ile giriş yapıp e-postanı gizlediysen Apple yönlendirme (private relay) adresini de yaz. Talebi e-postayla doğrular ve 7 gün içinde işleme alırız.
+Uygulama artık yüklü değilse, **Glowdrobe hesabının e-posta adresinden** "Glowdrobe hesabımı sil" konulu bir e-postayı **[contact@glowdrobe.ai](mailto:contact@glowdrobe.ai?subject=Glowdrobe%20hesab%C4%B1m%C4%B1%20sil)** adresine gönder. Apple ile giriş yapıp e-postanı gizlediysen Apple yönlendirme (private relay) adresini de yaz. Talebi e-postayla doğrular ve 7 gün içinde işleme alırız.
 
 ## Neler silinir
 

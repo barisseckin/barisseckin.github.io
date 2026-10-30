@@ -7,7 +7,7 @@ permalink: /support
 
 # Glowdrobe AI Support
 
-We're happy to help. Email us at **[baris.seckin@glowdrobe.ai](mailto:baris.seckin@glowdrobe.ai)** — we reply within 2 business days (reports of abusive content are reviewed within 24 hours).
+We're happy to help. Email us at **[contact@glowdrobe.ai](mailto:contact@glowdrobe.ai)** — we reply within 2 business days (reports of abusive content are reviewed within 24 hours).
 
 ## Frequently asked questions
 

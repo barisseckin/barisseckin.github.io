@@ -7,7 +7,7 @@ permalink: /tr/destek
 
 # Glowdrobe AI Destek
 
-Yardımcı olmaktan memnuniyet duyarız. **[baris.seckin@glowdrobe.ai](mailto:baris.seckin@glowdrobe.ai)** adresine yazabilirsin — 2 iş günü içinde yanıt veriyoruz (kötüye kullanım bildirimleri 24 saat içinde incelenir).
+Yardımcı olmaktan memnuniyet duyarız. **[contact@glowdrobe.ai](mailto:contact@glowdrobe.ai)** adresine yazabilirsin — 2 iş günü içinde yanıt veriyoruz (kötüye kullanım bildirimleri 24 saat içinde incelenir).
 
 ## Sık sorulan sorular
 

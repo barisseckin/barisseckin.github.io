@@ -30,7 +30,7 @@ Kişisel verilerinizden sorumlu veri sorumlusu:
 
 **Barış Seçkin**  
 15 Temmuz Mahallesi, Üniversite Bulvarı No:320, 27560 Şehitkamil / Gaziantep, Türkiye  
-E-posta: **baris.seckin@glowdrobe.ai**
+E-posta: **contact@glowdrobe.ai**
 
 KVKK, GDPR ve CCPA kapsamındakiler dahil tüm gizlilik talepleriniz için bu adres üzerinden bize ulaşabilirsiniz.
 
@@ -139,7 +139,7 @@ Rızaya dayandığımız durumlarda rızanızı istediğiniz zaman geri alabilir
   - **NanoBanana** — sanal deneme görseli üretimi.
   - **Google (Gemini API)** — sanal deneme ve kıyafet temizleme (kıyafetin fotoğraftan ayrıştırılması) için yapay zekâ görsel üretimi. Yapılandırmamıza bağlı olarak bu görseller NanoBanana yerine Google tarafından üretilebilir; bu durumda fotoğraflarınız ve kıyafet görselleriniz Google'a gönderilir.
 - **Model eğitimi yok:** Veriler yalnızca talep ettiğiniz sonucu üretmek için gönderilir. OpenAI'ın ve Google'ın ücretli Gemini API koşulları uyarınca API üzerinden gönderilen veriler bu şirketlerin modellerini eğitmek için kullanılmaz.
-- **Rızayı geri alma:** baris.seckin@glowdrobe.ai adresinden bize ulaşarak veya ilgili içeriği ya da hesabınızı silerek rızanızı istediğiniz zaman geri alabilirsiniz. Geri almanın ardından fotoğraflarınızı işleyen yapay zekâ özellikleri artık kullanımınıza açık olmaz.
+- **Rızayı geri alma:** contact@glowdrobe.ai adresinden bize ulaşarak veya ilgili içeriği ya da hesabınızı silerek rızanızı istediğiniz zaman geri alabilirsiniz. Geri almanın ardından fotoğraflarınızı işleyen yapay zekâ özellikleri artık kullanımınıza açık olmaz.
 
 ---
 
@@ -189,7 +189,7 @@ Sunucularımız ve hizmet sağlayıcılarımızın bir kısmı (ör. AWS, OpenAI
 - **KVKK (md. 9) kapsamında:** Kişisel verileri yurt dışına, kanunda öngörülen uygun güvencelere (Kişisel Verileri Koruma Kurumu'na bildirilen standart sözleşmeler gibi) dayanarak ve gerektiğinde Uygulamada talep ettiğimiz açık rızanıza dayanarak aktarırız.
 - **GDPR kapsamında:** AEA'dan yapılan aktarımlar, Avrupa Komisyonu'nun Standart Sözleşme Hükümleri veya yeterlilik kararları (ör. sağlayıcının sertifikalı olduğu durumlarda AB–ABD Veri Gizliliği Çerçevesi) gibi uygun güvencelere dayanır.
 
-Bu güvenceler hakkında baris.seckin@glowdrobe.ai adresinden daha fazla bilgi isteyebilirsiniz.
+Bu güvenceler hakkında contact@glowdrobe.ai adresinden daha fazla bilgi isteyebilirsiniz.
 
 ---
 
@@ -227,7 +227,7 @@ KVKK'nın 11. maddesi uyarınca şu haklara sahipsiniz:
 - verilerinizin münhasıran otomatik sistemlerle analiz edilmesi suretiyle aleyhinize bir sonucun ortaya çıkmasına itiraz etme;
 - kanuna aykırı işleme nedeniyle zarara uğramanız hâlinde zararın giderilmesini talep etme.
 
-Talebinizi baris.seckin@glowdrobe.ai adresine veya yazılı olarak 15 Temmuz Mahallesi, Üniversite Bulvarı No:320, 27560 Şehitkamil / Gaziantep, Türkiye adresine iletebilirsiniz. Talebinizi en geç **30 gün** içinde ücretsiz olarak yanıtlarız. Talebinizin reddedilmesi veya yanıtımızı yetersiz bulmanız hâlinde Kişisel Verileri Koruma Kurulu'na şikâyette bulunabilirsiniz.
+Talebinizi contact@glowdrobe.ai adresine veya yazılı olarak 15 Temmuz Mahallesi, Üniversite Bulvarı No:320, 27560 Şehitkamil / Gaziantep, Türkiye adresine iletebilirsiniz. Talebinizi en geç **30 gün** içinde ücretsiz olarak yanıtlarız. Talebinizin reddedilmesi veya yanıtımızı yetersiz bulmanız hâlinde Kişisel Verileri Koruma Kurulu'na şikâyette bulunabilirsiniz.
 
 ### 11.2 GDPR kapsamındaki haklarınız (AEA)
 
@@ -239,7 +239,7 @@ Kaliforniya sakinleri, kişisel bilgilerini bilme, bunlara erişme, düzeltme ve
 
 ### 11.4 Haklarınızı nasıl kullanabilirsiniz
 
-**baris.seckin@glowdrobe.ai** adresinden bize ulaşın. Yanıt vermeden önce kimliğinizi doğrulamamız gerekebilir. Hesabınızı doğrudan Uygulama üzerinden de silebilirsiniz (bkz. Bölüm 10).
+**contact@glowdrobe.ai** adresinden bize ulaşın. Yanıt vermeden önce kimliğinizi doğrulamamız gerekebilir. Hesabınızı doğrudan Uygulama üzerinden de silebilirsiniz (bkz. Bölüm 10).
 
 ---
 
@@ -251,7 +251,7 @@ Kişisel verilerinizi korumak için aktarım sırasında şifreleme, erişim kon
 
 ## 13. Çocuklar
 
-Uygulama 13 yaşın (AEA'da geçerli olduğu durumlarda 16 yaşın) altındaki çocuklara yönelik değildir. Bu yaşların altındaki çocuklardan bilerek kişisel veri toplamayız. Bir çocuğun bize kişisel veri sağladığını düşünüyorsanız baris.seckin@glowdrobe.ai adresinden bize ulaşın; bu verileri derhal sileriz.
+Uygulama 13 yaşın (AEA'da geçerli olduğu durumlarda 16 yaşın) altındaki çocuklara yönelik değildir. Bu yaşların altındaki çocuklardan bilerek kişisel veri toplamayız. Bir çocuğun bize kişisel veri sağladığını düşünüyorsanız contact@glowdrobe.ai adresinden bize ulaşın; bu verileri derhal sileriz.
 
 ---
 
@@ -263,5 +263,5 @@ Bu Gizlilik Politikasını zaman zaman güncelleyebiliriz. Önemli değişiklikl
 
 ## 15. Bize Ulaşın
 
-- **E-posta:** baris.seckin@glowdrobe.ai
+- **E-posta:** contact@glowdrobe.ai
 - **Posta adresi:** Barış Seçkin, 15 Temmuz Mahallesi, Üniversite Bulvarı No:320, 27560 Şehitkamil / Gaziantep, Türkiye
