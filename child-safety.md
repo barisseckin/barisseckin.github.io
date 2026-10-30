@@ -49,4 +49,4 @@ If a child is in immediate danger, contact your local emergency services first. 
 
 ## 7. Contact
 
-Our designated contact for child safety questions and reports is **[barisseckin0@gmail.com](mailto:barisseckin0@gmail.com?subject=Child%20safety%20report)**. Please include the username and, if possible, a description of where the content appeared. Do not send us copies of abusive images.
+Our designated contact for child safety questions and reports is **[baris.seckin@glowdrobe.ai](mailto:baris.seckin@glowdrobe.ai?subject=Child%20safety%20report)**. Please include the username and, if possible, a description of where the content appeared. Do not send us copies of abusive images.
