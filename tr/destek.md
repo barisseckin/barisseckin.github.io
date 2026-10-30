@@ -3,7 +3,7 @@ title: "Destek — Glowdrobe AI"
 permalink: /tr/destek
 ---
 
-[English](/support) · [Gizlilik Politikası](/tr/gizlilik-politikasi) · [Kullanım Koşulları](/tr/kullanim-kosullari) · [Hesabını sil](/tr/hesap-silme)
+[English](/support) · [Gizlilik Politikası](/tr/gizlilik-politikasi) · [Kullanım Koşulları](/tr/kullanim-kosullari) · [Hesabını sil](/tr/hesap-silme) · [Çocuk Güvenliği](/tr/cocuk-guvenligi)
 
 # Glowdrobe AI Destek
 

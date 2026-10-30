@@ -3,7 +3,7 @@ title: "Support — Glowdrobe AI"
 permalink: /support
 ---
 
-[Türkçe](/tr/destek) · [Privacy Policy](/privacy-policy) · [Terms of Use](/terms-of-use) · [Delete your account](/delete-account)
+[Türkçe](/tr/destek) · [Privacy Policy](/privacy-policy) · [Terms of Use](/terms-of-use) · [Delete your account](/delete-account) · [Child Safety](/child-safety)
 
 # Glowdrobe AI Support
 

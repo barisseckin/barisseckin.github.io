@@ -7,7 +7,7 @@ permalink: /tr/gizlilik-politikasi
 
 # Gizlilik Politikası — Glowdrobe AI
 
-**Son güncelleme:** 2026-10-27  
+**Son güncelleme:** 2026-10-30  
 **Yürürlük tarihi:** 2026-10-23
 
 Bu Gizlilik Politikası, iOS için Glowdrobe AI mobil uygulamasını ("Uygulama") kullandığınızda kişisel verilerin nasıl toplandığını, kullanıldığını, paylaşıldığını ve korunduğunu açıklar. Uygulama, Türkiye Cumhuriyeti'nde faaliyet gösteren bireysel geliştirici (şahıs işletmesi) Barış Seçkin ("biz", "bize", "bizim") tarafından işletilmektedir.
@@ -76,6 +76,7 @@ KVKK, GDPR ve CCPA kapsamındakiler dahil tüm gizlilik talepleriniz için bu ad
 ### 2.8 Teknik kayıtlar
 
 - Uygulamanın güvenli ve çalışır durumda kalması için kullanılan cihaz türü, işletim sistemi, uygulama sürümü, hata raporları ve sunucu kayıtları (IP adresi ve istek zaman damgalarını içerebilir) gibi teknik ve tanılama verileri.
+- Google Firebase Crashlytics tarafından toplanan çökme raporları ve tanılama verileri (ör. hata yığını, cihaz modeli, işletim sistemi ve uygulama sürümü, çökme anında Uygulamanın durumu). Bildirdiğiniz sorunları inceleyebilmemiz için çökme raporları kullanıcı kimliğiniz üzerinden hesabınızla ilişkilendirilir.
 
 ### 2.9 Cihaz izinleri
 
@@ -136,7 +137,8 @@ Rızaya dayandığımız durumlarda rızanızı istediğiniz zaman geri alabilir
 - **Ne gönderilir:** Talep ettiğiniz sonucu üretmek için ilgili fotoğraflar ve gardırop verileri yapay zekâ sağlayıcılarımıza gönderilir:
   - **OpenAI** — yapay zekâ stilisti metin ve görsel üretimi ile içerik denetimi.
   - **NanoBanana** — sanal deneme görseli üretimi.
-- **Model eğitimi yok:** Veriler yalnızca talep ettiğiniz sonucu üretmek için gönderilir. OpenAI'ın API koşulları uyarınca API üzerinden gönderilen veriler OpenAI modellerini eğitmek için kullanılmaz.
+  - **Google (Gemini API)** — sanal deneme ve kıyafet temizleme (kıyafetin fotoğraftan ayrıştırılması) için yapay zekâ görsel üretimi. Yapılandırmamıza bağlı olarak bu görseller NanoBanana yerine Google tarafından üretilebilir; bu durumda fotoğraflarınız ve kıyafet görselleriniz Google'a gönderilir.
+- **Model eğitimi yok:** Veriler yalnızca talep ettiğiniz sonucu üretmek için gönderilir. OpenAI'ın ve Google'ın ücretli Gemini API koşulları uyarınca API üzerinden gönderilen veriler bu şirketlerin modellerini eğitmek için kullanılmaz.
 - **Rızayı geri alma:** barisseckin0@gmail.com adresinden bize ulaşarak veya ilgili içeriği ya da hesabınızı silerek rızanızı istediğiniz zaman geri alabilirsiniz. Geri almanın ardından fotoğraflarınızı işleyen yapay zekâ özellikleri artık kullanımınıza açık olmaz.
 
 ---
@@ -145,6 +147,8 @@ Rızaya dayandığımız durumlarda rızanızı istediğiniz zaman geri alabilir
 
 - Herkese açık paylaşılan veya sohbette gönderilen metin ve görseller, sakıncalı içeriği tespit etmek için bir yapay zekâ denetim hizmeti (OpenAI) tarafından otomatik olarak taranır.
 - Gönderileri, yorumları, hikâyeleri, profilleri ve mesajları **şikâyet edebilir**, diğer kullanıcıları **engelleyebilirsiniz**.
+- Rahatsız edici, cinsel veya zararlı **yapay zekâ sonuçlarını** (sanal deneme görselleri, yapay zekâ stilisti cevapları ve kombin önerileri) da **şikâyet edebilirsiniz**. Bir yapay zekâ stilisti cevabını şikâyet ettiğinizde, inceleyebilmemiz ve güvenlik filtrelerimizi geliştirebilmemiz için şikâyet edilen metin şikâyetinizle birlikte bize iletilir.
+- Çocukların cinsel istismarı ve sömürüsüne karşı sıfır tolerans uygularız; bkz. [Çocuk Güvenliği Standartları](/tr/cocuk-guvenligi).
 - Şikâyetleri **24 saat** içinde inceler, Kullanım Koşullarımızı ihlal eden içeriği kaldırır ve bu içeriği paylaşan kullanıcıları platformdan çıkarırız.
 - Bir şikâyeti ele almak için şikâyet edilen içeriği ve ilgili hesap bilgilerini inceleyebiliriz.
 
@@ -159,7 +163,9 @@ Kişisel verileri yalnızca Uygulamayı işletmemize yardımcı olan hizmet sağ
 | Amazon Web Services (S3, CloudFront, barındırma) | Sunucu barındırma, dosya depolama ve iletimi | Uygulamada saklanan veriler |
 | OpenAI | Yapay zekâ stilisti metin ve görsel üretimi; içerik denetimi | Fotoğraflar, gardırop verileri, talepler ve denetime gönderilen metin ve görseller |
 | NanoBanana | Sanal deneme görseli üretimi | Selfie/vücut fotoğrafları ve kıyafet görselleri |
-| Google Firebase | Anlık bildirimler | Cihaz bildirim jetonu, bildirim içeriği |
+| Google (Gemini API) | Sanal deneme ve kıyafet temizleme için yapay zekâ görsel üretimi (yapılandırmaya bağlı olarak NanoBanana yerine kullanılabilir) | Selfie/vücut fotoğrafları ve kıyafet görselleri |
+| Google Firebase Cloud Messaging | Anlık bildirimler | Cihaz bildirim jetonu, bildirim içeriği |
+| Google Firebase Crashlytics | Çökme raporlama ve tanılama | Çökme ve tanılama verileri (cihaz modeli, işletim sistemi ve uygulama sürümü, hata yığını), kullanıcı kimliğiniz üzerinden hesabınızla ilişkili |
 | Google ve Apple | Giriş | Giriş tanımlayıcıları, ad ve e-posta (paylaşmayı seçtiğiniz ölçüde) |
 | Apple ve Google | Uygulama içi satın alımlar ve abonelikler (App Store, Google Play) | Satın alma ve abonelik kayıtları |
 | MailerSend | İşlemsel e-posta | E-posta adresi, ad, e-posta içeriği |
