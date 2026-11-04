@@ -7,7 +7,7 @@ permalink: /tr/kullanim-kosullari
 
 # Kullanım Koşulları — Glowdrobe AI
 
-**Son güncelleme:** 2026-10-23  
+**Son güncelleme:** 2026-11-04  
 **Yürürlük tarihi:** 2026-10-23
 
 Bu Kullanım Koşulları ("Koşullar"), iOS için Glowdrobe AI mobil uygulamasına ("Uygulama") ve ilgili hizmetlere erişiminizi ve bunları kullanımınızı düzenler. Uygulama, Türkiye Cumhuriyeti'nde faaliyet gösteren bireysel geliştirici (şahıs işletmesi) Barış Seçkin ("biz", "bize", "bizim") tarafından işletilmektedir.
@@ -108,7 +108,10 @@ Bize geri bildirim veya öneri gönderirseniz, bunları size karşı herhangi bi
 
 ### 7.1 Glowdrobe Premium
 
-- **Glowdrobe Premium**, **aylık otomatik yenilenen bir aboneliktir**. Her abonelik döneminde **20 yapay zekâ kredisi** ve **100 ek gardırop yükleme hakkı** eklenir.
+- **Glowdrobe Premium**, **aylık** veya **yıllık** plan olarak sunulan **otomatik yenilenen bir aboneliktir**.
+  - **Aylık:** her ay yenilenir; her ay **20 yapay zekâ kredisi** ve **100 ek gardırop yükleme hakkı** eklenir.
+  - **Yıllık:** her yıl yenilenir; her ücretli yılın başında **240 yapay zekâ kredisi** ve **1.200 ek gardırop yükleme hakkı** eklenir.
+- Aylık ve yıllık plan arasında App Store abonelik ayarlarınızdan geçiş yapabilirsiniz; geçiş bir sonraki yenilemede geçerli olur.
 - Fiyatlar, satın alma öncesinde Uygulamada yerel para biriminizde gösterilir.
 - Ödeme, satın alma onaylandığında **Apple Kimliği (Apple ID)** hesabınızdan tahsil edilir.
 - Abonelik, mevcut dönemin bitiminden **en az 24 saat önce** iptal edilmediği sürece **otomatik olarak yenilenir**.

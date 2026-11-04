@@ -7,7 +7,7 @@ permalink: /terms-of-use
 
 # Terms of Use — Glowdrobe AI
 
-**Last updated:** 2026-10-23  
+**Last updated:** 2026-11-04  
 **Effective date:** 2026-10-23
 
 These Terms of Use ("Terms") govern your access to and use of the Glowdrobe AI mobile application for iOS (the "App") and related services. The App is operated by Barış Seçkin, an individual developer (sole proprietor) based in the Republic of Türkiye ("we", "us", "our").
@@ -108,7 +108,10 @@ If you send us feedback or suggestions, we may use them without obligation or co
 
 ### 7.1 Glowdrobe Premium
 
-- **Glowdrobe Premium** is a **monthly auto-renewing subscription**. Each subscription period adds **20 AI credits** and **100 extra wardrobe uploads**.
+- **Glowdrobe Premium** is an **auto-renewing subscription**, available as a **monthly** or a **yearly** plan.
+  - **Monthly:** renews every month; each month adds **20 AI credits** and **100 extra wardrobe uploads**.
+  - **Yearly:** renews every year; at the start of each paid year it adds **240 AI credits** and **1,200 extra wardrobe uploads**.
+- You can switch between the monthly and yearly plan in your App Store subscription settings; the switch takes effect at your next renewal.
 - Prices are shown in the App in your local currency before purchase.
 - Payment is charged to your **Apple ID** account at confirmation of purchase.
 - The subscription **renews automatically** unless it is cancelled **at least 24 hours before the end of the current period**.
