@@ -7,7 +7,7 @@ permalink: /tr/gizlilik-politikasi
 
 # Gizlilik Politikası — Glowdrobe AI
 
-**Son güncelleme:** 2026-10-30  
+**Son güncelleme:** 2026-11-04  
 **Yürürlük tarihi:** 2026-10-23
 
 Bu Gizlilik Politikası, iOS için Glowdrobe AI mobil uygulamasını ("Uygulama") kullandığınızda kişisel verilerin nasıl toplandığını, kullanıldığını, paylaşıldığını ve korunduğunu açıklar. Uygulama, Türkiye Cumhuriyeti'nde faaliyet gösteren bireysel geliştirici (şahıs işletmesi) Barış Seçkin ("biz", "bize", "bizim") tarafından işletilmektedir.
@@ -138,6 +138,7 @@ Rızaya dayandığımız durumlarda rızanızı istediğiniz zaman geri alabilir
   - **OpenAI** — yapay zekâ stilisti metin ve görsel üretimi ile içerik denetimi.
   - **NanoBanana** — sanal deneme görseli üretimi.
   - **Google (Gemini API)** — sanal deneme ve kıyafet temizleme (kıyafetin fotoğraftan ayrıştırılması) için yapay zekâ görsel üretimi. Yapılandırmamıza bağlı olarak bu görseller NanoBanana yerine Google tarafından üretilebilir; bu durumda fotoğraflarınız ve kıyafet görselleriniz Google'a gönderilir.
+  - **Anthropic** — yapılandırmamız bir talebi Claude'a yönlendirdiğinde yapay zekâ stilisti metin üretimi.
 - **Model eğitimi yok:** Veriler yalnızca talep ettiğiniz sonucu üretmek için gönderilir. OpenAI'ın ve Google'ın ücretli Gemini API koşulları uyarınca API üzerinden gönderilen veriler bu şirketlerin modellerini eğitmek için kullanılmaz.
 - **Rızayı geri alma:** contact@glowdrobe.ai adresinden bize ulaşarak veya ilgili içeriği ya da hesabınızı silerek rızanızı istediğiniz zaman geri alabilirsiniz. Geri almanın ardından fotoğraflarınızı işleyen yapay zekâ özellikleri artık kullanımınıza açık olmaz.
 
@@ -164,6 +165,7 @@ Kişisel verileri yalnızca Uygulamayı işletmemize yardımcı olan hizmet sağ
 | OpenAI | Yapay zekâ stilisti metin ve görsel üretimi; içerik denetimi | Fotoğraflar, gardırop verileri, talepler ve denetime gönderilen metin ve görseller |
 | NanoBanana | Sanal deneme görseli üretimi | Selfie/vücut fotoğrafları ve kıyafet görselleri |
 | Google (Gemini API) | Sanal deneme ve kıyafet temizleme için yapay zekâ görsel üretimi (yapılandırmaya bağlı olarak NanoBanana yerine kullanılabilir) | Selfie/vücut fotoğrafları ve kıyafet görselleri |
+| Anthropic | Yapay zekâ stilisti metin üretimi (yapılandırmaya bağlı olarak) | Talepler ve gardırop verileri |
 | Google Firebase Cloud Messaging | Anlık bildirimler | Cihaz bildirim jetonu, bildirim içeriği |
 | Google Firebase Crashlytics | Çökme raporlama ve tanılama | Çökme ve tanılama verileri (cihaz modeli, işletim sistemi ve uygulama sürümü, hata yığını), kullanıcı kimliğiniz üzerinden hesabınızla ilişkili |
 | Google ve Apple | Giriş | Giriş tanımlayıcıları, ad ve e-posta (paylaşmayı seçtiğiniz ölçüde) |
@@ -184,7 +186,7 @@ Kişisel verilerinizi **satmayız** ve reklam amacıyla paylaşmayız.
 
 ## 8. Yurt Dışına Aktarım
 
-Sunucularımız ve hizmet sağlayıcılarımızın bir kısmı (ör. AWS, OpenAI, NanoBanana, Google, Apple, MailerSend), Amerika Birleşik Devletleri dahil olmak üzere Türkiye ve AEA dışında bulunmakta veya verileri bu ülkelerde işlemektedir.
+Sunucularımız ve hizmet sağlayıcılarımızın bir kısmı (ör. AWS, OpenAI, NanoBanana, Google, Anthropic, Apple, MailerSend), Amerika Birleşik Devletleri dahil olmak üzere Türkiye ve AEA dışında bulunmakta veya verileri bu ülkelerde işlemektedir.
 
 - **KVKK (md. 9) kapsamında:** Kişisel verileri yurt dışına, kanunda öngörülen uygun güvencelere (Kişisel Verileri Koruma Kurumu'na bildirilen standart sözleşmeler gibi) dayanarak ve gerektiğinde Uygulamada talep ettiğimiz açık rızanıza dayanarak aktarırız.
 - **GDPR kapsamında:** AEA'dan yapılan aktarımlar, Avrupa Komisyonu'nun Standart Sözleşme Hükümleri veya yeterlilik kararları (ör. sağlayıcının sertifikalı olduğu durumlarda AB–ABD Veri Gizliliği Çerçevesi) gibi uygun güvencelere dayanır.
